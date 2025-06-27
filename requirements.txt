@@ -5,3 +5,8 @@ langgraph
 python-dotenv
 fastmcp
 uvicorn
+openmeteo-requests
+pandas
+requests-cache
+retry-requests
+geopy
